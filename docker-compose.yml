@@ -2,7 +2,7 @@ version: '3'
 
 services:
   mongo-express:
-    container_name: mongo-express-app-pedido
+    container_name: mongo-express-app-pagamento
     image: mongo-express
     ports:
       - "8081:8081"
@@ -19,7 +19,7 @@ services:
       - nugetlanches-network
 
   mongo:
-    container_name: mongo-db-app-pedido
+    container_name: mongo-db-app-pagamento
     image: mongo
     environment:
       MONGO_INITDB_ROOT_USERNAME: admin
@@ -30,7 +30,7 @@ services:
       - nugetlanches-network
 
   api:
-    container_name: app-pedido
+    container_name: app-pagamento
     build:
       context: .  # Caminho para o Dockerfile da aplicação
     environment:
