@@ -2,9 +2,6 @@ using Microsoft.AspNetCore.Diagnostics.HealthChecks;
 using Microsoft.Extensions.Diagnostics.HealthChecks;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.OpenApi.Models;
-using nuget_fiap_app_pagamento_repository;
-using nuget_fiap_app_pagamento_repository.DB;
-using nuget_fiap_app_pagamento_repository.DTO;
 using System;
 using Microsoft.Extensions.Caching.Memory;
 using nuget_fiap_app_pagamento_server.Interface.Services;
@@ -30,7 +27,6 @@ public partial class Program
         // Registra o ProdutoAPIRepository com os parâmetros requeridos incluindo IMemoryCache e baseUrl
 
         // Registro de outros serviços e repositórios
-        builder.Services.AddScoped<RepositoryDB>();
         builder.Services.AddScoped<IPagamentoUseCase, PagamentoUseCase>();
         builder.Services.AddMemoryCache();
 

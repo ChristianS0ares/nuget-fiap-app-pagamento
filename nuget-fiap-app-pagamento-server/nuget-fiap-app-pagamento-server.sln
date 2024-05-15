@@ -7,13 +7,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "nuget-fiap-app-pagamento-se
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "nuget-fiap-app-pagamento", "..\nuget-fiap-app-pagamento\nuget-fiap-app-pagamento.csproj", "{3FBBC744-FA2E-494B-8847-38A0A477D071}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "nuget-fiap-app-pagamento-common", "..\nuget-fiap-app-pagamento-common\nuget-fiap-app-pagamento-common.csproj", "{AA17C7A1-7DE3-4F59-B0F9-F4378ADA61EA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "nuget-fiap-app-pagamento-common", "..\nuget-fiap-app-pagamento-common\nuget-fiap-app-pagamento-common.csproj", "{AA17C7A1-7DE3-4F59-B0F9-F4378ADA61EA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "nuget-fiap-app-pagamento-repository", "..\nuget-fiap-app-pagamento-repository\nuget-fiap-app-pagamento-repository.csproj", "{977571CD-688E-48CA-9CC4-39EE98020FB0}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "nuget-fiap-app-pagamento-test", "..\nuget-fiap-app-pagamento-test\nuget-fiap-app-pagamento-test.csproj", "{C3E64FD1-0055-48C6-B103-4B756084D468}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "nuget-fiap-app-pagamento-test-bdd", "..\nuget-fiap-app-pagamento-test-bdd\nuget-fiap-app-pagamento-test-bdd.csproj", "{B5075720-41E8-41C4-9098-D498E0C2182A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "nuget-fiap-app-pagamento-test", "..\nuget-fiap-app-pagamento-test\nuget-fiap-app-pagamento-test.csproj", "{C3E64FD1-0055-48C6-B103-4B756084D468}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,18 +29,10 @@ Global
 		{AA17C7A1-7DE3-4F59-B0F9-F4378ADA61EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AA17C7A1-7DE3-4F59-B0F9-F4378ADA61EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AA17C7A1-7DE3-4F59-B0F9-F4378ADA61EA}.Release|Any CPU.Build.0 = Release|Any CPU
-		{977571CD-688E-48CA-9CC4-39EE98020FB0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{977571CD-688E-48CA-9CC4-39EE98020FB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{977571CD-688E-48CA-9CC4-39EE98020FB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{977571CD-688E-48CA-9CC4-39EE98020FB0}.Release|Any CPU.Build.0 = Release|Any CPU
 		{C3E64FD1-0055-48C6-B103-4B756084D468}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{C3E64FD1-0055-48C6-B103-4B756084D468}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C3E64FD1-0055-48C6-B103-4B756084D468}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C3E64FD1-0055-48C6-B103-4B756084D468}.Release|Any CPU.Build.0 = Release|Any CPU
-		{B5075720-41E8-41C4-9098-D498E0C2182A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{B5075720-41E8-41C4-9098-D498E0C2182A}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{B5075720-41E8-41C4-9098-D498E0C2182A}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{B5075720-41E8-41C4-9098-D498E0C2182A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

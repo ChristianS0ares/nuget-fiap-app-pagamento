@@ -19,7 +19,6 @@
 
   <ItemGroup>
     <ProjectReference Include="..\nuget-fiap-app-pagamento-common\nuget-fiap-app-pagamento-common.csproj" />
-    <ProjectReference Include="..\nuget-fiap-app-pagamento-repository\nuget-fiap-app-pagamento-repository.csproj" />
   </ItemGroup>
 
 </Project>
