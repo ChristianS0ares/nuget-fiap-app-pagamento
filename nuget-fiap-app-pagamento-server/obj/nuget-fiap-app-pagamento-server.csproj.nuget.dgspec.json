@@ -1,0 +1,225 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Erikson\\src\\nuget-fiap-app-pagamento\\nuget-fiap-app-pagamento-server\\nuget-fiap-app-pagamento-server.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Erikson\\src\\nuget-fiap-app-pagamento\\nuget-fiap-app-pagamento-common\\nuget-fiap-app-pagamento-common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Erikson\\src\\nuget-fiap-app-pagamento\\nuget-fiap-app-pagamento-common\\nuget-fiap-app-pagamento-common.csproj",
+        "projectName": "nuget-fiap-app-pagamento-common",
+        "projectPath": "C:\\Users\\Erikson\\src\\nuget-fiap-app-pagamento\\nuget-fiap-app-pagamento-common\\nuget-fiap-app-pagamento-common.csproj",
+        "packagesPath": "C:\\Users\\Erikson\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Erikson\\src\\nuget-fiap-app-pagamento\\nuget-fiap-app-pagamento-common\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Erikson\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Erikson\\src\\nuget-fiap-app-pagamento\\nuget-fiap-app-pagamento-repository\\nuget-fiap-app-pagamento-repository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Erikson\\src\\nuget-fiap-app-pagamento\\nuget-fiap-app-pagamento-repository\\nuget-fiap-app-pagamento-repository.csproj",
+        "projectName": "nuget-fiap-app-pagamento-repository",
+        "projectPath": "C:\\Users\\Erikson\\src\\nuget-fiap-app-pagamento\\nuget-fiap-app-pagamento-repository\\nuget-fiap-app-pagamento-repository.csproj",
+        "packagesPath": "C:\\Users\\Erikson\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Erikson\\src\\nuget-fiap-app-pagamento\\nuget-fiap-app-pagamento-repository\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Erikson\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\Erikson\\src\\nuget-fiap-app-pagamento\\nuget-fiap-app-pagamento-common\\nuget-fiap-app-pagamento-common.csproj": {
+                "projectPath": "C:\\Users\\Erikson\\src\\nuget-fiap-app-pagamento\\nuget-fiap-app-pagamento-common\\nuget-fiap-app-pagamento-common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.Extensions.Caching.Memory": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.Extensions.Options": {
+              "target": "Package",
+              "version": "[8.0.2, )"
+            },
+            "MongoDB.Driver": {
+              "target": "Package",
+              "version": "[2.25.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Erikson\\src\\nuget-fiap-app-pagamento\\nuget-fiap-app-pagamento-server\\nuget-fiap-app-pagamento-server.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Erikson\\src\\nuget-fiap-app-pagamento\\nuget-fiap-app-pagamento-server\\nuget-fiap-app-pagamento-server.csproj",
+        "projectName": "nuget-fiap-app-pagamento-server",
+        "projectPath": "C:\\Users\\Erikson\\src\\nuget-fiap-app-pagamento\\nuget-fiap-app-pagamento-server\\nuget-fiap-app-pagamento-server.csproj",
+        "packagesPath": "C:\\Users\\Erikson\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Erikson\\src\\nuget-fiap-app-pagamento\\nuget-fiap-app-pagamento-server\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Erikson\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\Erikson\\src\\nuget-fiap-app-pagamento\\nuget-fiap-app-pagamento-common\\nuget-fiap-app-pagamento-common.csproj": {
+                "projectPath": "C:\\Users\\Erikson\\src\\nuget-fiap-app-pagamento\\nuget-fiap-app-pagamento-common\\nuget-fiap-app-pagamento-common.csproj"
+              },
+              "C:\\Users\\Erikson\\src\\nuget-fiap-app-pagamento\\nuget-fiap-app-pagamento-repository\\nuget-fiap-app-pagamento-repository.csproj": {
+                "projectPath": "C:\\Users\\Erikson\\src\\nuget-fiap-app-pagamento\\nuget-fiap-app-pagamento-repository\\nuget-fiap-app-pagamento-repository.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.OpenApi": {
+              "target": "Package",
+              "version": "[7.0.11, )"
+            },
+            "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
+              "target": "Package",
+              "version": "[1.19.4, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            },
+            "Swashbuckle.AspNetCore.ReDoc": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

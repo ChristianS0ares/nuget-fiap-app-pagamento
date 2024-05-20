@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Pj17wlW+Pbw59ukLbuJhYd3EMxXFX5Hp+aV87qvYf9LMTxmsz66xGmK0rAKF7pChHNxHADLdRJ86CpZQHpGRTw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Erikson\\src\\nuget-fiap-app-pagamento\\nuget-fiap-app-pagamento-common\\nuget-fiap-app-pagamento-common.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Erikson\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

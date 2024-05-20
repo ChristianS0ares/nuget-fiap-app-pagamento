@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "JkGZBLbJ+vDhIwUmjFkXZeRVJvCj2WDD3F2rQLQ9W7w=",
+  "Source": "nuget-fiap-app-pagamento-server",
+  "BasePath": "_content/nuget-fiap-app-pagamento-server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
