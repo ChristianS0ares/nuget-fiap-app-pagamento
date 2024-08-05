@@ -1,0 +1,12 @@
+C:\Users\Erikson\src\nuget-fiap-app-pagamento\nuget-fiap-app-pagamento-common\obj\Debug\net7.0\nuget-fiap-app-pagamento-common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Erikson\src\nuget-fiap-app-pagamento\nuget-fiap-app-pagamento-common\obj\Debug\net7.0\nuget-fiap-app-pagamento-common.AssemblyInfoInputs.cache
+C:\Users\Erikson\src\nuget-fiap-app-pagamento\nuget-fiap-app-pagamento-common\obj\Debug\net7.0\nuget-fiap-app-pagamento-common.AssemblyInfo.cs
+C:\Users\Erikson\src\nuget-fiap-app-pagamento\nuget-fiap-app-pagamento-common\obj\Debug\net7.0\nuget-fiap-app-pagamento-common.csproj.CoreCompileInputs.cache
+C:\Users\Erikson\src\nuget-fiap-app-pagamento\nuget-fiap-app-pagamento-common\obj\Debug\net7.0\nuget-fiap-app-pagamento-common.csproj.AssemblyReference.cache
+C:\Users\Erikson\src\nuget-fiap-app-pagamento\nuget-fiap-app-pagamento-common\bin\Debug\net7.0\nuget-fiap-app-pagamento-common.deps.json
+C:\Users\Erikson\src\nuget-fiap-app-pagamento\nuget-fiap-app-pagamento-common\bin\Debug\net7.0\nuget-fiap-app-pagamento-common.dll
+C:\Users\Erikson\src\nuget-fiap-app-pagamento\nuget-fiap-app-pagamento-common\bin\Debug\net7.0\nuget-fiap-app-pagamento-common.pdb
+C:\Users\Erikson\src\nuget-fiap-app-pagamento\nuget-fiap-app-pagamento-common\obj\Debug\net7.0\nuget-fiap-app-pagamento-common.dll
+C:\Users\Erikson\src\nuget-fiap-app-pagamento\nuget-fiap-app-pagamento-common\obj\Debug\net7.0\refint\nuget-fiap-app-pagamento-common.dll
+C:\Users\Erikson\src\nuget-fiap-app-pagamento\nuget-fiap-app-pagamento-common\obj\Debug\net7.0\nuget-fiap-app-pagamento-common.pdb
+C:\Users\Erikson\src\nuget-fiap-app-pagamento\nuget-fiap-app-pagamento-common\obj\Debug\net7.0\ref\nuget-fiap-app-pagamento-common.dll

@@ -1,0 +1,15 @@
+C:\Users\Erikson\src\nuget-fiap-app-pagamento\nuget-fiap-app-pagamento-repository\bin\Debug\net7.0\nuget-fiap-app-pagamento-repository.deps.json
+C:\Users\Erikson\src\nuget-fiap-app-pagamento\nuget-fiap-app-pagamento-repository\bin\Debug\net7.0\nuget-fiap-app-pagamento-repository.dll
+C:\Users\Erikson\src\nuget-fiap-app-pagamento\nuget-fiap-app-pagamento-repository\bin\Debug\net7.0\nuget-fiap-app-pagamento-repository.pdb
+C:\Users\Erikson\src\nuget-fiap-app-pagamento\nuget-fiap-app-pagamento-repository\obj\Debug\net7.0\nuget-fiap-app-pagamento-repository.csproj.AssemblyReference.cache
+C:\Users\Erikson\src\nuget-fiap-app-pagamento\nuget-fiap-app-pagamento-repository\obj\Debug\net7.0\nuget-fiap-app-pagamento-repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Erikson\src\nuget-fiap-app-pagamento\nuget-fiap-app-pagamento-repository\obj\Debug\net7.0\nuget-fiap-app-pagamento-repository.AssemblyInfoInputs.cache
+C:\Users\Erikson\src\nuget-fiap-app-pagamento\nuget-fiap-app-pagamento-repository\obj\Debug\net7.0\nuget-fiap-app-pagamento-repository.AssemblyInfo.cs
+C:\Users\Erikson\src\nuget-fiap-app-pagamento\nuget-fiap-app-pagamento-repository\obj\Debug\net7.0\nuget-fiap-app-pagamento-repository.csproj.CoreCompileInputs.cache
+C:\Users\Erikson\src\nuget-fiap-app-pagamento\nuget-fiap-app-pagamento-repository\obj\Debug\net7.0\nuget-fiap-app-pagamento-repository.dll
+C:\Users\Erikson\src\nuget-fiap-app-pagamento\nuget-fiap-app-pagamento-repository\obj\Debug\net7.0\refint\nuget-fiap-app-pagamento-repository.dll
+C:\Users\Erikson\src\nuget-fiap-app-pagamento\nuget-fiap-app-pagamento-repository\obj\Debug\net7.0\nuget-fiap-app-pagamento-repository.pdb
+C:\Users\Erikson\src\nuget-fiap-app-pagamento\nuget-fiap-app-pagamento-repository\obj\Debug\net7.0\ref\nuget-fiap-app-pagamento-repository.dll
+C:\Users\Erikson\src\nuget-fiap-app-pagamento\nuget-fiap-app-pagamento-repository\bin\Debug\net7.0\nuget-fiap-app-pagamento-common.dll
+C:\Users\Erikson\src\nuget-fiap-app-pagamento\nuget-fiap-app-pagamento-repository\bin\Debug\net7.0\nuget-fiap-app-pagamento-common.pdb
+C:\Users\Erikson\src\nuget-fiap-app-pagamento\nuget-fiap-app-pagamento-repository\obj\Debug\net7.0\nuget-fiap-app-pagamento-repository.csproj.CopyComplete
